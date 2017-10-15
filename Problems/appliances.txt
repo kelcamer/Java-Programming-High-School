@@ -1,0 +1,12 @@
+3
+Dishwashers 100
+2
+95
+125
+Dryers 135
+2
+150
+100
+Microwaves 125
+1
+125

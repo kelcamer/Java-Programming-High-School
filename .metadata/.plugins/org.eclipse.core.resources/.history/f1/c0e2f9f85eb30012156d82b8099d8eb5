@@ -1,0 +1,33 @@
+import java.util.Scanner;
+
+
+public class magic {
+
+	public static void main(String[] args) {
+		Scanner scanny = new Scanner(System.in);
+		int x = 0;
+		int y = 0;
+		x = scanny.nextInt();
+		y = scanny.nextInt();
+		int num = 10;
+		
+		for (int g = 1; x <= num; x++){
+		
+		int total = 0;
+		total = (((num * x) + y) / x) - num;
+		
+		if ((num * x) > 144 || ((num * x)+ y) > 144 || ((num * x) + y) / x > 144){
+		
+			System.out.println("The trick is too difficult to do.");
+			break;
+		}
+		else
+		System.out.println(total);
+		
+		
+		}
+		
+		
+		
+	}
+}

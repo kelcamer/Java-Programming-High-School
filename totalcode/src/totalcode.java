@@ -1,0 +1,36 @@
+import java.io.*;
+import java.util.*;
+
+
+public class totalcode {
+
+	/**
+	 * Kelsey Cameron
+	 */
+	public static void main(String[] args) {
+		
+		HashMap<String, Integer> map = new HashMap<String, Integer>();
+		map.put("hello", 1);
+		map.get("hello");
+		int n = map.get("hello");
+		
+		
+	
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

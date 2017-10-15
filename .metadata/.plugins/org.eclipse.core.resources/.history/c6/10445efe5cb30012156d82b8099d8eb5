@@ -1,0 +1,12 @@
+import java.util.Scanner;
+
+
+public class magic {
+
+	public static void main(String[] args) {
+		Scanner scanny = new Scanner;
+		int x = 0;
+		int y = 0;
+
+	}
+}
